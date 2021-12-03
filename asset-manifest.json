@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/decidr/static/css/main.c701926e.chunk.css",
+    "main.js": "/decidr/static/js/main.39a02cb9.chunk.js",
+    "main.js.map": "/decidr/static/js/main.39a02cb9.chunk.js.map",
+    "runtime-main.js": "/decidr/static/js/runtime-main.fa6a455c.js",
+    "runtime-main.js.map": "/decidr/static/js/runtime-main.fa6a455c.js.map",
+    "static/js/2.e7a8645b.chunk.js": "/decidr/static/js/2.e7a8645b.chunk.js",
+    "static/js/2.e7a8645b.chunk.js.map": "/decidr/static/js/2.e7a8645b.chunk.js.map",
+    "static/js/3.e2a3213e.chunk.js": "/decidr/static/js/3.e2a3213e.chunk.js",
+    "static/js/3.e2a3213e.chunk.js.map": "/decidr/static/js/3.e2a3213e.chunk.js.map",
+    "index.html": "/decidr/index.html",
+    "static/css/main.c701926e.chunk.css.map": "/decidr/static/css/main.c701926e.chunk.css.map",
+    "static/js/2.e7a8645b.chunk.js.LICENSE.txt": "/decidr/static/js/2.e7a8645b.chunk.js.LICENSE.txt",
+    "static/media/reload.f84ab27a.png": "/decidr/static/media/reload.f84ab27a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa6a455c.js",
+    "static/js/2.e7a8645b.chunk.js",
+    "static/css/main.c701926e.chunk.css",
+    "static/js/main.39a02cb9.chunk.js"
+  ]
+}
