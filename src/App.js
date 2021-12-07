@@ -52,9 +52,7 @@ function App() {
             setSelectedIndex(undefined);
           }}
         />
-        {selectedItem ? (
-          <p>{selectedItem}</p>
-        ) : (
+        {Boolean(!selectedItem) && (
           <div className="list-display-container">
             {allItems.map((entry, i) => (
               <div
